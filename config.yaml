@@ -36,16 +36,8 @@ params:
     gradientOverlay: ''
     logo: ''
   social:
-    codepen: https://codepen.io/
-    facebook: https://www.facebook.com/
     github: https://github.com/
-    gitlab: https://gitlab.com/
-    instagram: https://www.instagram.com/
-    keybase: https://keybase.io/
     linkedin: https://www.linkedin.com/in/
-    medium: https://medium.com/
-    twitter: https://twitter.com/
-    youtube: https://www.youtube.com/
 taxonomies:
   design: designs
   tech: techs
