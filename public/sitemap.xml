@@ -2,92 +2,92 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>https://marisadywong.netlify.app/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://marisadywong.netlify.app/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://marisadywong.netlify.app/post/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/getting-started/</loc>
+    <loc>https://marisadywong.netlify.app/post/getting-started/</loc>
     <lastmod>2019-05-03T09:37:55+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/portfolio-definition/</loc>
+    <loc>https://marisadywong.netlify.app/post/portfolio-definition/</loc>
     <lastmod>2019-05-02T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/techs/d3/</loc>
+    <loc>https://marisadywong.netlify.app/techs/d3/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/designs/</loc>
+    <loc>https://marisadywong.netlify.app/designs/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/techs/javascript/</loc>
+    <loc>https://marisadywong.netlify.app/techs/javascript/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/designs/photoshop/</loc>
+    <loc>https://marisadywong.netlify.app/designs/photoshop/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/portfolio/</loc>
+    <loc>https://marisadywong.netlify.app/portfolio/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/portfolio/sample-project/</loc>
+    <loc>https://marisadywong.netlify.app/portfolio/sample-project/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/techs/</loc>
+    <loc>https://marisadywong.netlify.app/techs/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/archetypes/</loc>
+    <loc>https://marisadywong.netlify.app/post/archetypes/</loc>
     <lastmod>2019-05-02T19:25:30+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/shortcodes/</loc>
+    <loc>https://marisadywong.netlify.app/post/shortcodes/</loc>
     <lastmod>2019-04-29T16:18:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/config-file/</loc>
+    <loc>https://marisadywong.netlify.app/post/config-file/</loc>
     <lastmod>2019-04-20T16:18:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/pages/</loc>
+    <loc>https://marisadywong.netlify.app/post/pages/</loc>
     <lastmod>2019-04-20T16:18:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/post/define-specific-og-image/</loc>
+    <loc>https://marisadywong.netlify.app/post/define-specific-og-image/</loc>
     <lastmod>2019-04-20T11:14:59+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://marisadywong.netlify.app/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
