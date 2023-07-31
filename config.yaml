@@ -1,8 +1,8 @@
 baseURL: https://marisadywong.netlify.app
 languageCode: en-us
-title: Edna West
+title: Marisa Wong
 theme: personal-web
-copyright: © Edna West
+copyright: © Marisa Wong
 googleAnalytics: ''
 enableEmoji: yes
 enableRobotsTXT: yes
@@ -15,11 +15,11 @@ params:
     favicon: ''
   breadcrumb: yes
   contact:
-    email: ''
+    email: 'marisadyw@gmail.com'
     text: ''
   intro:
     main: 'Hi, I''m Edna :wave:'
-    sub: I'm a Web Developer and Entrepreneur
+    sub: I'm an Epidemiologist and Environmental Steward
   main:
     latestPublishHeader: My Latest Project
   mainSections: portfolio
