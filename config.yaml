@@ -18,11 +18,11 @@ params:
     email: 'marisadyw@gmail.com'
     text: ''
   intro:
-    main: 'Hi, I''m Edna :wave:'
-    sub: I'm an Epidemiologist and Environmental Steward
+    main: 'Marisa Wong, MPH'
+    sub: Epidemiologist & Environmental Health Professional
   main:
     latestPublishHeader: My Latest Project
-  mainSections: portfolio
+  mainSections: experience
   notFound:
     gopher: /images/gopher.png
     h1: Bummer!
@@ -36,8 +36,8 @@ params:
     gradientOverlay: ''
     logo: ''
   social:
-    github: https://github.com/
-    linkedin: https://www.linkedin.com/in/
+    github: https://github.com/marisadyw
+    linkedin: https://www.linkedin.com/in/wongmarisa/
 taxonomies:
   design: designs
   tech: techs
@@ -50,15 +50,15 @@ menu:
       title: About section
       url: /about/
       weight: -120
+    - identifier: experience
+      name: Experience
+      title: Experience
+      url: /experience/
+      weight: -110
     - identifier: portfolio
       name: Portfolio
       title: Portfolio
       url: /portfolio/
-      weight: -110
-    - identifier: blog
-      name: Post
-      title: Blog section
-      url: /post/
       weight: -100
 sitemap:
   changefreq: monthly

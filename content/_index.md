@@ -5,10 +5,14 @@ images:
 title: HOME
 ---
 
-Hey,
+Hello! Thanks for visiting my online portfolio :)
 
-I'm Edna West, a Web Developer and Entrepreneur.
+I'm Marisa Wong, an Epidemiologist and Environmental Health Professional based out of Atlanta, GA, USA.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus error cumque quisquam necessitatibus libero dolore porro, quo at molestiae modi voluptatibus iusto alias corporis. Accusamus, debitis, atque. Maiores, distinctio, neque.
+I recently graduated from Emory University with my Master of Public Health (MPH) degree, concentrating in Environmental Health and focusing in Epidemiology.
+
+I'm eager to make an impact on public health through epidemiological analyses, disease surveillance, program evaluation, and environmental health!
+
+If you're interested in any of my projects or experience, contact me at marisadyw@gmail.com.
 
 [Get to know me better](/about "Get to know me better")
