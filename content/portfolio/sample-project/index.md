@@ -2,7 +2,7 @@
 date: "2019-05-02T19:47:09+02:00"
 description: MPH Capstone
 jobDate: May 2023
-projectUrl: https://www.sampleorganization.org
+projectUrl: https://t.ly/DWM2O
 designs:
 - Literature Review
 - Directed Acyclic Graphs (DAGs)
@@ -14,8 +14,7 @@ techs:
 thumbnail: sample-project/sample.jpg
 title: Socio-Ecological Risk Factors for Campylobacter Infection in Rural Malagasy Children
 work:
-- design
-- architecture
+- MPH Capstone Project
 ---
 
 Diarrheal disease is a major cause of global morbidity and mortality in low and middle income countries, and one of the leading causes of enteric disease is Campylobacter infections. Campylobacter is commonly transmitted to humans through the ingestion of contaminated food and water; however, further evidence suggests animal encounters may play a substantial role in transmitting the pathogen. 
@@ -24,5 +23,5 @@ This project utilizes the dataset from Dr. Thomas Gillespie’s 2017 Eco-Epidemi
 
 Presentations:
 - 11/11/22: RSPH Integrated Learning Experience (ILE) Gangarosa Department of Environmental Health (GDEH) Proposal Presentation
-- 4/12/23: GDEH Capstone Seminar (EH 594)
-- 4/24/23: GDEH 2023 End of Year Poster Symposium
+- 4/12/23: [GDEH Capstone Seminar (EH 594) Presentation]( https://github.com/marisadyw/MarisaWong-Portfolio/blob/main/Project%20Documents/Capstone_Final_Presentation_Marisa%20Wong.pdf)
+- 4/24/23: [GDEH 2023 End of Year Poster Symposium](https://github.com/marisadyw/MarisaWong-Portfolio/blob/main/Project%20Documents/Capstone_Poster_Marisa%20Wong.pdf)

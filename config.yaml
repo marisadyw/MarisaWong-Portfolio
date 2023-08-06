@@ -53,7 +53,7 @@ menu:
     - identifier: experience
       name: Experience
       title: Experience
-      url: /post/
+      url: /experience/
       weight: -110
     - identifier: portfolio
       name: Portfolio
