@@ -19,7 +19,6 @@ work:
 ---
 
 #### Project Description
-
 This project assessed foodborne disease outbreaks in the United States surrounding the release of FDA’s 2017 Food Code by utilizing the National Outbreak Response System (NORS) to understand whether the release of the 2017 Food Code and its new section had any impact on foodborne outbreaks.
 
 Click [here](https://github.com/marisadyw/INFO530Project/blob/main/Final%20Code_Marisa%20Wong.sql) for the SQL code associated with this project.
