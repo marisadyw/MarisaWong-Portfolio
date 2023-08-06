@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Marisa Wong</copyright>
-    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate><atom:link href="https://marisadywong.netlify.app/techs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 May 2022 19:47:09 +0200</lastBuildDate><atom:link href="https://marisadywong.netlify.app/techs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>glmer</title>
+      <link>https://marisadywong.netlify.app/techs/glmer/</link>
+      <pubDate>Mon, 02 May 2022 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/techs/glmer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://marisadywong.netlify.app/techs/r/</link>
+      <pubDate>Mon, 02 May 2022 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/techs/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rshiny</title>
+      <link>https://marisadywong.netlify.app/techs/rshiny/</link>
+      <pubDate>Mon, 02 May 2022 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/techs/rshiny/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>D3</title>
       <link>https://marisadywong.netlify.app/techs/d3/</link>

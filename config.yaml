@@ -53,12 +53,17 @@ menu:
     - identifier: experience
       name: Experience
       title: Experience
-      url: /experience/
+      url: /post/
       weight: -110
     - identifier: portfolio
       name: Portfolio
       title: Portfolio
       url: /portfolio/
+      weight: -100
+    - identifier: Posts
+      name: Posts
+      title: Posts
+      url: /post/
       weight: -100
 sitemap:
   changefreq: monthly

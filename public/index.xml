@@ -7,14 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Marisa Wong</copyright>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://marisadywong.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 May 2022 19:47:09 +0200</lastBuildDate><atom:link href="https://marisadywong.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sex</title>
+      <link>https://marisadywong.netlify.app/portfolio/project_one/</link>
+      <pubDate>Mon, 02 May 2022 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/portfolio/project_one/</guid>
+      <description>This is where other descriptions and text goes</description>
+    </item>
+    
     <item>
       <title>Hello R Markdown</title>
       <link>https://marisadywong.netlify.app/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
       <guid>https://marisadywong.netlify.app/post/2020-12-01-r-rmarkdown/</guid>
-      <description>R Markdown Hello, my name is Marisa Wong!
+      <description>R Markdown Hello, my name is Marisa Wong!!
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.</description>
@@ -41,6 +50,16 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
             &lt;p&gt;Example of Portfolio page&lt;/p&gt;
         &lt;/figcaption&gt;
 &lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sample project</title>
+      <link>https://marisadywong.netlify.app/experience/sample-project/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/experience/sample-project/</guid>
+      <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>

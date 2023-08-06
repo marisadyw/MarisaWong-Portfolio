@@ -3,4 +3,4 @@ description: Portfolio Section
 title: PORTFOLIO
 ---
 
-You'll add here a general introduction of your portfolio page.
+Please write about your projects here and 
