@@ -1,24 +1,20 @@
 ---
 date: "2019-05-02T19:47:09+02:00"
-description: This is the description of our sample project
+description: Risk Assessment
 designs:
-- Photoshop
-jobDate: 2019
+- Conceptual Site Model (CSM)
+- Superfund site
+jobDate: Dec 2022
 projectUrl: https://www.sampleorganization.org
 techs:
-- javascript
-- D3
-testimonial:
-  image: sample-project/john.jpg
-  name: John Doe
-  role: CEO @Example
-  text: Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm.
-    Pinnace holystone mizzenmast quarter crow's nest nipperkin
+- Risk Assessment
+- IRIS
+- PPRTVs
+- EPA's Risk Calculator
 thumbnail: sample-project/sample.jpg
-title: Sample project
+title: Quantitative Risk Assessment of the Fairchild Semiconductor Co. Superfund Site in San Jose, California
 work:
-- design
-- architecture
+- EH 524: Risk Assessment
 ---
 
 This would be a description of your sample project. You can add any content you'd like.
