@@ -29,3 +29,18 @@ I have over 5 years of experience in the public health realm, doing valuable wor
 **Public Health Intern**, *Breathe California of the Bay Area*, April 2016 - June 2016
 
 For a more in-depth description of the work I've done, check out my resume here.
+
+#### Skills
+| Technical             | Topical                        | Interpersonal           |
+|-----------------------|--------------------------------|-------------------------|
+|- R                    |- Environmental Health          |- Project Management     |
+|- SAS                  |- Public Health                 |- Communication          |
+|- SQL                  |- Epidemiological Methods       |- Teamwork               |
+|- GIS                  |- One Health                    |- Leadership             |
+|- Covidence            |- Infectious Disease Ecology    |- Collaboration          |
+|- EndNote              |- Risk Assessment               |- Stakeholder Management |
+|- Data Analysis        |- Environmental Compliance      |- Consulting             |
+|- Literature Review    |- Health &  Safety              |- Flexibility            |
+|- SharePoint           |- Industrial Hygiene            |                         |
+|- Smartsheet           |- Program Evaluation            |                         |
+|- Qualitative Research |- Audits & Inspections          |                         |

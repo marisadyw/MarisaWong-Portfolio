@@ -15,7 +15,7 @@ techs:
 thumbnail: risk_assessment/Risk_Assessment_Group_5.jpg
 title: Quantitative Risk Assessment of the Fairchild Semiconductor Co. Superfund Site in San Jose, CA
 work:
-- EH 524: Risk Assessment
+- Risk Assessment (EH 524)
 ---
 
 #### Project Description
