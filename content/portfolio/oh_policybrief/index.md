@@ -8,24 +8,12 @@ projectUrl: https://www.sampleorganization.org
 techs:
 - javascript
 - D3
-testimonial:
-  image: sample-project/john.jpg
-  name: John Doe
-  role: CEO @Example
-  text: Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm.
-    Pinnace holystone mizzenmast quarter crow's nest nipperkin
-thumbnail: sample-project/sample.jpg
-title: Sample project
+title: One Health Policy Implementation in the U.S.
 work:
-- design
-- architecture
+- Policy Brief for Environmental Health, Law, and Policy (EH 570)
 ---
 
-This would be a description of your sample project. You can add any content you'd like.
+#### Project Description
+The goal of this assignment was to act as a staffer tasked with preparing a policy brief for the decision maker, addressing aims of policy analysis and policy advocacy of an environmental health topic.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I chose to write about One Health Implementation in the U.S., explored a range of options that would lead to increased One Health collaborations,  and advocated for additional funding that would be provided to federal agencies specifically for One Health work.
