@@ -18,7 +18,7 @@ techs:
 - tidyverse
 - glmer
 - broom.mixed
-thumbnail: MPH_capstone/Capstone_Poster_MarisaWong.jpg
+thumbnail: MPH_capstone/poster.jpg
 title: Socio-Ecological Risk Factors for Campylobacter Infection in Rural Malagasy Children
 work:
 - MPH Capstone Project

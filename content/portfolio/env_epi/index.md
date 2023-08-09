@@ -12,11 +12,11 @@ designs:
 - Biomarkers
 - Respiratory Disease
 jobDate: Apr 2022
-projectUrl: https://www.sampleorganization.org
+projectUrl: https://t.ly/KTt39
 techs:
 - Epidemiologic Modeling
 thumbnail: env_epi/EH530_Group2.jpg
-title: Understanding the association between ozone pollution, asthma hospitalizations, and IgE biomarker levels for adolescents in Los Angeles, CA
+title: Association of ozone pollution, asthma hospitalizations, and IgE levels for adolescents in Los Angeles, CA
 work:
 - Occupational & Environmental Epidemiology (EH 530)
 ---
@@ -36,4 +36,4 @@ Our research team is interested in studying the association between ground-level
 related-hospitalizations in adolescents aged thirteen to eighteen years old residing in Los Angeles, CA. We will derive the cases in our sample population from Los Angeles based hospitals and analyze the corresponding emissions reported by the South Coast Air Quality Management District (SCAQMD). These cases will undergo a blood draw to assess their IgE biomarker responses and compare their responses with randomly selected controls from the source population. Analytical regressions will be used to model the meaningful covariates in the relationship to estimate the true association between adolescent exposure to ozone and their IgE inflammatory response.
 
 #### Presentation
-- 4/22/22: [Final Presentation for EH 530: Occupational & Environmental Epidemiology]
+- 4/22/22: [Final Presentation for EH 530: Occupational & Environmental Epidemiology](https://github.com/marisadyw/MarisaWong-Portfolio/blob/main/Project%20Documents/EH%20530%20Group%202%20-%20Presentation.pdf)

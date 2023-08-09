@@ -12,7 +12,7 @@ techs:
 - SQL
 - Relational Database Management Systems (RDBMSes)
 - National Outbreak Response System (NORS)
-thumbnail: SQL_project/FinalPresentation_INFO521.jpg
+thumbnail: SQL_project/sqlposter.jpg
 title: Analyzing Foodborne Outbreaks around the release of FDA's 2017 Food Code
 work:
 - Databases in SQL Course Project

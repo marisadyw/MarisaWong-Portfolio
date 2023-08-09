@@ -9,12 +9,12 @@
     <copyright>© Marisa Wong</copyright>
     <lastBuildDate>Mon, 02 May 2022 19:47:09 +0200</lastBuildDate><atom:link href="https://marisadywong.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sex</title>
-      <link>https://marisadywong.netlify.app/portfolio/project_one/</link>
+      <title>One Health Rapid Response Team Scoping Review</title>
+      <link>https://marisadywong.netlify.app/portfolio/oho_ape/</link>
       <pubDate>Mon, 02 May 2022 19:47:09 +0200</pubDate>
       
-      <guid>https://marisadywong.netlify.app/portfolio/project_one/</guid>
-      <description>This is where other descriptions and text goes</description>
+      <guid>https://marisadywong.netlify.app/portfolio/oho_ape/</guid>
+      <description>Project Description One Health is the multisectoral and collaborative approach to achieving the best health outcomes for humans, animals, and the shared environment (Centers for Disease Control and Prevention, 2022). This approach is relevant and necessary at all government levels to ensure that appropriate specialists represent their area of expertise in complex, transboundary health issues. On the other hand, rapid response teams (RRTs) are designated personnel who are trained, equipped, and ready to deploy at any public health emergency.</description>
     </item>
     
     <item>
@@ -53,6 +53,36 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     </item>
     
     <item>
+      <title>Analyzing Foodborne Outbreaks around the release of FDA&#39;s 2017 Food Code</title>
+      <link>https://marisadywong.netlify.app/portfolio/sql_project/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/portfolio/sql_project/</guid>
+      <description>Project Description This project assessed foodborne disease outbreaks in the United States surrounding the release of FDA’s 2017 Food Code by utilizing the National Outbreak Response System (NORS) to understand whether the release of the 2017 Food Code and its new section had any impact on foodborne outbreaks.
+Click here for the SQL code associated with this project.
+Presentation 4/21/23: Databases in SQL Course, Final Presentation </description>
+    </item>
+    
+    <item>
+      <title>Association of ozone pollution, asthma hospitalizations, and IgE levels for adolescents in Los Angeles, CA</title>
+      <link>https://marisadywong.netlify.app/portfolio/env_epi/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/portfolio/env_epi/</guid>
+      <description>Project Description For the final project of Occupational and Environmental Epidemiology (EH 530), my group and I prepared a project proposal consisting of a robust epidemiologic analysis to determine the relationship between ozone pollution, asthma hospitalizations, and IgE biomarker levels in adolescents living in Los Angeles, CA.
+Abstract The concern over air pollution continues to rise along with the onset of global climate change. One of the major sources of air pollution is ozone in the troposphere.</description>
+    </item>
+    
+    <item>
+      <title>Quantitative Risk Assessment of the Fairchild Semiconductor Co. Superfund Site in San Jose, CA</title>
+      <link>https://marisadywong.netlify.app/portfolio/risk_assessment/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/portfolio/risk_assessment/</guid>
+      <description>Project Description For a final project, my group and I conducted a risk assessment of Fairchild Semiconductor Corporation&amp;rsquo;s Superfund Site in San Jose, California. The site was home to an electronics and semiconductor fabrication plant from 1977 to 1983. Sources of hazards include solvents containing volatile organic compounds (VOCs) such as 1,1,1-TCA; TCE; 1,1-DCE; and Acetone; which were discovered in 1981 to have been released into the environment through a fractured pipeline.</description>
+    </item>
+    
+    <item>
       <title>Sample project</title>
       <link>https://marisadywong.netlify.app/experience/sample-project/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
@@ -64,12 +94,32 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
     
     <item>
       <title>Sample project</title>
-      <link>https://marisadywong.netlify.app/portfolio/sample-project/</link>
+      <link>https://marisadywong.netlify.app/portfolio/good-sample-project/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>https://marisadywong.netlify.app/portfolio/sample-project/</guid>
+      <guid>https://marisadywong.netlify.app/portfolio/good-sample-project/</guid>
       <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Sample project</title>
+      <link>https://marisadywong.netlify.app/portfolio/oh_policybrief/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/portfolio/oh_policybrief/</guid>
+      <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Socio-Ecological Risk Factors for Campylobacter Infection in Rural Malagasy Children</title>
+      <link>https://marisadywong.netlify.app/portfolio/mph_capstone/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/portfolio/mph_capstone/</guid>
+      <description>Click here for a detailed view of the above image
+Project Description Diarrheal disease is a major cause of global morbidity and mortality in low and middle income countries, and one of the leading causes of enteric disease is Campylobacter infections. Campylobacter is commonly transmitted to humans through the ingestion of contaminated food and water; however, further evidence suggests animal encounters may play a substantial role in transmitting the pathogen.</description>
     </item>
     
     <item>

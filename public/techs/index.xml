@@ -9,29 +9,38 @@
     <copyright>© Marisa Wong</copyright>
     <lastBuildDate>Mon, 02 May 2022 19:47:09 +0200</lastBuildDate><atom:link href="https://marisadywong.netlify.app/techs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>glmer</title>
-      <link>https://marisadywong.netlify.app/techs/glmer/</link>
+      <title>Covidence</title>
+      <link>https://marisadywong.netlify.app/techs/covidence/</link>
       <pubDate>Mon, 02 May 2022 19:47:09 +0200</pubDate>
       
-      <guid>https://marisadywong.netlify.app/techs/glmer/</guid>
+      <guid>https://marisadywong.netlify.app/techs/covidence/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>R</title>
-      <link>https://marisadywong.netlify.app/techs/r/</link>
+      <title>EndNote 20</title>
+      <link>https://marisadywong.netlify.app/techs/endnote-20/</link>
       <pubDate>Mon, 02 May 2022 19:47:09 +0200</pubDate>
       
-      <guid>https://marisadywong.netlify.app/techs/r/</guid>
+      <guid>https://marisadywong.netlify.app/techs/endnote-20/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Rshiny</title>
-      <link>https://marisadywong.netlify.app/techs/rshiny/</link>
+      <title>Excel</title>
+      <link>https://marisadywong.netlify.app/techs/excel/</link>
       <pubDate>Mon, 02 May 2022 19:47:09 +0200</pubDate>
       
-      <guid>https://marisadywong.netlify.app/techs/rshiny/</guid>
+      <guid>https://marisadywong.netlify.app/techs/excel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>broom.mixed</title>
+      <link>https://marisadywong.netlify.app/techs/broom.mixed/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/techs/broom.mixed/</guid>
       <description></description>
     </item>
     
@@ -45,11 +54,119 @@
     </item>
     
     <item>
+      <title>EPA&#39;s Risk Calculator</title>
+      <link>https://marisadywong.netlify.app/techs/epas-risk-calculator/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/techs/epas-risk-calculator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epidemiologic Modeling</title>
+      <link>https://marisadywong.netlify.app/techs/epidemiologic-modeling/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/techs/epidemiologic-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>glmer</title>
+      <link>https://marisadywong.netlify.app/techs/glmer/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/techs/glmer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IRIS</title>
+      <link>https://marisadywong.netlify.app/techs/iris/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/techs/iris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>javascript</title>
       <link>https://marisadywong.netlify.app/techs/javascript/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
       <guid>https://marisadywong.netlify.app/techs/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National Outbreak Response System (NORS)</title>
+      <link>https://marisadywong.netlify.app/techs/national-outbreak-response-system-nors/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/techs/national-outbreak-response-system-nors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PPRTVs</title>
+      <link>https://marisadywong.netlify.app/techs/pprtvs/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/techs/pprtvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://marisadywong.netlify.app/techs/r/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/techs/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relational Database Management Systems (RDBMSes)</title>
+      <link>https://marisadywong.netlify.app/techs/relational-database-management-systems-rdbmses/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/techs/relational-database-management-systems-rdbmses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk Assessment</title>
+      <link>https://marisadywong.netlify.app/techs/risk-assessment/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/techs/risk-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://marisadywong.netlify.app/techs/sql/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/techs/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Analyses</title>
+      <link>https://marisadywong.netlify.app/techs/statistical-analyses/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/techs/statistical-analyses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tidyverse</title>
+      <link>https://marisadywong.netlify.app/techs/tidyverse/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://marisadywong.netlify.app/techs/tidyverse/</guid>
       <description></description>
     </item>
     
