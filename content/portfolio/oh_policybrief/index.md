@@ -2,12 +2,13 @@
 date: "2019-05-02T19:47:09+02:00"
 description: Policy Brief
 designs:
-- Photoshop
+- Policy Analysis
+- Policy Advocacy
+- One Health
+- Environmental Health
 jobDate: Apr 2023
-projectUrl: https://www.sampleorganization.org
-techs:
-- javascript
-- D3
+projectUrl: https://t.ly/SCKrM
+thumbnail: oh_policybrief/briefpic.jpg
 title: One Health Policy Implementation in the U.S.
 work:
 - Policy Brief for Environmental Health, Law, and Policy (EH 570)
