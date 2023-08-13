@@ -7,8 +7,8 @@ designs:
 - Climate Policy
 - Environmental Health
 jobDate: Dec 2022
-projectUrl: https://www.sampleorganization.org
-thumbnail: sample-project/sample.jpg
+projectUrl: https://t.ly/i791D
+thumbnail: climatechange/climatepic.jpg
 title: Climate Change Reports
 work:
 - Global Climate Change - Health Impacts and Response (EH 582)

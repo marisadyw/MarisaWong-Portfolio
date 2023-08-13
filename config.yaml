@@ -19,22 +19,22 @@ params:
     text: ''
   intro:
     main: 'Marisa Wong, MPH'
-    sub: Epidemiologist & Environmental Health Professional
+    sub: Environmental Health Epidemiologist
   main:
     latestPublishHeader: My Latest Project
   mainSections: experience
   notFound:
-    gopher: /images/gopher.png
+    gopher: /images/cats.jpeg
     h1: Bummer!
-    p: It seems that this page doesn't exist.
+    p: It seems that this page doesn't exist, so here's a picture of my cats judging you instead ;)
   rendererSafe: no
   sections:
     portfolio: project
     post: article
   sidebar:
-    backgroundImage: ''
+    backgroundImage: /images/back.jpg
     gradientOverlay: ''
-    logo: ''
+    logo: /images/me.JPG
   social:
     github: https://github.com/marisadyw
     linkedin: https://www.linkedin.com/in/wongmarisa/
