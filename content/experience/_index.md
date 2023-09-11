@@ -7,7 +7,10 @@ I have over 5 years of experience in the public health realm, doing valuable wor
 
 #### Summary of Professional Experience
 
-**Environmental Health Intern**, *Association for State and Territorial Health Officials (ASTHO)*, January 2023 - Present
+**Epidemologist (ORISE Fellow)**, *Centers for Disease Control and Prevention (CDC)*, August 2023 - Present
+- Investigates multi-state outbreaks linked to animal contact using a One Health approach in the Enteric Zoonoses Activity team within CDC's Outbreak Response and Prevention Branch
+
+**Environmental Health Intern**, *Association for State and Territorial Health Officials (ASTHO)*, January 2023 - August 2023
 - [Virtual Food Safety Inspection Guide](https://www.astho.org/topic/brief/virtual-food-safety-inspection-guide/) (Published 7/21/23)
 - [The Importance of the FDA Food Code](https://www.astho.org/topic/brief/the-importance-of-the-fda-food-code/) (Published 7/20/23)
 - [ASTHO Newscast #447: Ending Hepatitis C in Prisons, Mosquito Control Awareness Week](https://newscast.astho.org/447-ending-hepatitis-c-in-prisons-mosquito-control-awareness-week/) (Published 6/23/23)
@@ -28,19 +31,20 @@ I have over 5 years of experience in the public health realm, doing valuable wor
 
 **Public Health Intern**, *Breathe California of the Bay Area*, April 2016 - June 2016
 
-For a more in-depth description of the work I've done, check out my resume here.
+For a more in-depth description of the work I've done, check out my [Linkedin](https://www.linkedin.com/in/wongmarisa/).
 
 #### Skills
+
 | Technical             | Topical                        | Interpersonal           |
 |-----------------------|--------------------------------|-------------------------|
-|- R                    |- Environmental Health          |- Project Management     |
-|- SAS                  |- Public Health                 |- Communication          |
-|- SQL                  |- Epidemiological Methods       |- Teamwork               |
-|- GIS                  |- One Health                    |- Leadership             |
-|- Covidence            |- Infectious Disease Ecology    |- Collaboration          |
-|- EndNote              |- Risk Assessment               |- Stakeholder Management |
-|- Data Analysis        |- Environmental Compliance      |- Consulting             |
-|- Literature Review    |- Health &  Safety              |- Flexibility            |
-|- SharePoint           |- Industrial Hygiene            |                         |
-|- Smartsheet           |- Program Evaluation            |                         |
-|- Qualitative Research |- Audits & Inspections          |                         |
+| R                     | Environmental Health           | Project Management      |
+| SAS                   | Public Health                  | Communication           |
+| SQL                   | Epidemiological Methods        | Teamwork                |
+| GIS                   | One Health                     | Leadership              |
+| Covidence             | Infectious Disease Ecology     | Collaboration           |
+| EndNote               | Risk Assessment                | Stakeholder Management  |
+| Data Analysis         | Environmental Compliance       | Consulting              |
+| Literature Review     | Health & Safety               | Flexibility             |
+| SharePoint            | Industrial Hygiene             |                         |
+| Smartsheet            | Program Evaluation             |                         |
+| Qualitative Research  | Audits & Inspections           |                         |                        |

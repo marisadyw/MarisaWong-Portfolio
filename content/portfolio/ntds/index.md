@@ -7,6 +7,7 @@ designs:
 - Infectious Disease Ecology
 jobDate: Feb 2023
 projectUrl: https://t.ly/D1sPq
+thumbnail: ntds/ntd.jpg
 title: Taeniasis and Cysticercosis
 work:
 - NTD Presentation for Tropical Environmental Health (EH 590R)
